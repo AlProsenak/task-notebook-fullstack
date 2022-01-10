@@ -1,0 +1,6 @@
+[submodule "task-notebook-application"]
+	path = task-notebook-application
+	url = https://github.com/ProsenakAljaz/task-notebook-application.git
+[submodule "task-notebook-frontend"]
+	path = task-notebook-frontend
+	url = https://github.com/ProsenakAljaz/task-notebook-frontend
